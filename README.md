@@ -224,33 +224,34 @@
 # 🔧설계
 
 ### 🔧아키텍처 설계
-![architecture.drawio](/uploads/3f64b61a05077a0f47347510d9faeed4/architecture.drawio.png)
+![architecture](https://github.com/Grat3Su/EyeBird/assets/26815767/187225b0-f178-44c2-bb10-4d1d6910b288)
+
 
 ### 🔧DB 설계(ERD)
-![erd](/uploads/fd63705f3ca03287fd7d01faa48c06f8/erd.png)
+![erd](https://github.com/Grat3Su/EyeBird/assets/26815767/16e7b738-19d1-47d9-86aa-353fe62d7440)
 # 👀실제 화면
 
 ## 랭킹
-![랭킹](/uploads/7432163771fc091f7aba747d35db1434/랭킹.jpg){: width="30%" height="30%"}
+![랭킹](https://github.com/Grat3Su/EyeBird/assets/26815767/4c217f79-417b-4482-a919-2caafa800a97){: width="30%" height="30%"}
 
 ## 로비
-![로비](/uploads/3aeda259d24d80529ea80082b509581c/로비.jpg){: width="30%" height="30%"}
+![로비](https://github.com/Grat3Su/EyeBird/assets/26815767/a87e5b44-7d30-47ab-82bf-537ac9c6ca68){: width="30%" height="30%"}
 ## 클래식전과 아이템전 중 하나를 선택할 수 있음
-![클래식전과아이템전](/uploads/c52e06e5cf6025e5248742a036643b31/클래식전과아이템전.jpg){: width="30%" height="30%"}
+![클래식전과아이템전](https://github.com/Grat3Su/EyeBird/assets/26815767/511e4ebf-8ddc-493d-9d06-f2f323dccc8f){: width="30%" height="30%"}
 ## 매칭 찾는 중
-![매칭찾는중](/uploads/4dd467fe97c2d7fd17db2144af86146a/매칭찾는중.jpg){: width="30%" height="30%"}
+![매칭찾는중](https://github.com/Grat3Su/EyeBird/assets/26815767/001bdaee-9034-4487-934b-6c44bf2385c3){: width="30%" height="30%"}
 ## 매칭성공
-![매칭성공](/uploads/4d6245d675689ab9d49fbb3c52053296/매칭성공.jpg){: width="30%" height="30%"}
+![매칭성공](https://github.com/Grat3Su/EyeBird/assets/26815767/306b686d-89e7-4321-95e9-2c435dcf1692){: width="30%" height="30%"}
 ## 게임 준비
-![게임준비](/uploads/14b193c5592e79314405ee774a614ec1/게임준비.jpg){: width="30%" height="30%"}
+![게임준비](https://github.com/Grat3Su/EyeBird/assets/26815767/5822a2a6-fb14-432d-81f5-a805e640c5e7){: width="30%" height="30%"}
 ## 예상 승점
-![예상승점](/uploads/3bc7bc6195b81db6cd6f32e9faed7fbf/예상승점.jpg){: width="30%" height="30%"}
+![예상승점](https://github.com/Grat3Su/EyeBird/assets/26815767/d2bd853d-9d31-4717-a7c3-f6c40703fc3e){: width="30%" height="30%"}
 ## 게임 시작 직전
-![게임시작직전](/uploads/bceb6a07e82005803f3ab7b0a01022b4/게임시작직전.jpg){: width="30%" height="30%"}
+![게임시작직전](https://github.com/Grat3Su/EyeBird/assets/26815767/665ec7a1-0242-45f1-8393-4c1a7085db46){: width="30%" height="30%"}
 ## 게임 진행 중
-![게임진행중](/uploads/49f9c5db94f8510cfd492b191a25bfb8/게임진행중.jpg){: width="30%" height="30%"}
+![게임진행중](https://github.com/Grat3Su/EyeBird/assets/26815767/63498542-02c3-40ff-9d19-57c58e562d98){: width="30%" height="30%"}
 ## 게임 승리 후의 화면
-![게임승리후](/uploads/780b318d7d09a2bae3510b92460ea226/게임승리후.jpg){: width="30%" height="30%"}
+![게임승리후](https://github.com/Grat3Su/EyeBird/assets/26815767/2a57eb26-87aa-4680-a00e-94fd4fe17e4c){: width="30%" height="30%"}
 
 
 
