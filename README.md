@@ -232,28 +232,34 @@
 # 👀실제 화면
 
 ## 랭킹
-![랭킹](https://github.com/Grat3Su/EyeBird/assets/26815767/4c217f79-417b-4482-a919-2caafa800a97){: width="30%" height="30%"}
+<img src="https://github.com/Grat3Su/EyeBird/assets/26815767/4c217f79-417b-4482-a919-2caafa800a97" alt="랭킹" width="30%" height="30%">
 
 ## 로비
-![로비](https://github.com/Grat3Su/EyeBird/assets/26815767/a87e5b44-7d30-47ab-82bf-537ac9c6ca68){: width="30%" height="30%"}
+<img src="https://github.com/Grat3Su/EyeBird/assets/26815767/a87e5b44-7d30-47ab-82bf-537ac9c6ca68" alt="로비" width="30%" height="30%">
+
 ## 클래식전과 아이템전 중 하나를 선택할 수 있음
-![클래식전과아이템전](https://github.com/Grat3Su/EyeBird/assets/26815767/511e4ebf-8ddc-493d-9d06-f2f323dccc8f){: width="30%" height="30%"}
+<img src="https://github.com/Grat3Su/EyeBird/assets/26815767/511e4ebf-8ddc-493d-9d06-f2f323dccc8f" alt="클래식전과 아이템전" width="30%" height="30%">
+
 ## 매칭 찾는 중
-![매칭찾는중](https://github.com/Grat3Su/EyeBird/assets/26815767/001bdaee-9034-4487-934b-6c44bf2385c3){: width="30%" height="30%"}
-## 매칭성공
-![매칭성공](https://github.com/Grat3Su/EyeBird/assets/26815767/306b686d-89e7-4321-95e9-2c435dcf1692){: width="30%" height="30%"}
+<img src="https://github.com/Grat3Su/EyeBird/assets/26815767/001bdaee-9034-4487-934b-6c44bf2385c3" alt="매칭 찾는 중" width="30%" height="30%">
+
+## 매칭 성공
+<img src="https://github.com/Grat3Su/EyeBird/assets/26815767/306b686d-89e7-4321-95e9-2c435dcf1692" alt="매칭 성공" width="30%" height="30%">
+
 ## 게임 준비
-![게임준비](https://github.com/Grat3Su/EyeBird/assets/26815767/5822a2a6-fb14-432d-81f5-a805e640c5e7){: width="30%" height="30%"}
+<img src="https://github.com/Grat3Su/EyeBird/assets/26815767/5822a2a6-fb14-432d-81f5-a805e640c5e7" alt="게임 준비" width="30%" height="30%">
+
 ## 예상 승점
-![예상승점](https://github.com/Grat3Su/EyeBird/assets/26815767/d2bd853d-9d31-4717-a7c3-f6c40703fc3e){: width="30%" height="30%"}
+<img src="https://github.com/Grat3Su/EyeBird/assets/26815767/d2bd853d-9d31-4717-a7c3-f6c40703fc3e" alt="예상 승점" width="30%" height="30%">
+
 ## 게임 시작 직전
-![게임시작직전](https://github.com/Grat3Su/EyeBird/assets/26815767/665ec7a1-0242-45f1-8393-4c1a7085db46){: width="30%" height="30%"}
+<img src="https://github.com/Grat3Su/EyeBird/assets/26815767/665ec7a1-0242-45f1-8393-4c1a7085db46" alt="게임 시작 직전" width="30%" height="30%">
+
 ## 게임 진행 중
-![게임진행중](https://github.com/Grat3Su/EyeBird/assets/26815767/63498542-02c3-40ff-9d19-57c58e562d98){: width="30%" height="30%"}
+<img src="https://github.com/Grat3Su/EyeBird/assets/26815767/63498542-02c3-40ff-9d19-57c58e562d98" alt="게임 진행 중" width="30%" height="30%">
+
 ## 게임 승리 후의 화면
-![게임승리후](https://github.com/Grat3Su/EyeBird/assets/26815767/2a57eb26-87aa-4680-a00e-94fd4fe17e4c){: width="30%" height="30%"}
-
-
+<img src="https://github.com/Grat3Su/EyeBird/assets/26815767/2a57eb26-87aa-4680-a00e-94fd4fe17e4c" alt="게임 승리 후의 화면" width="30%" height="30%">
 
 
 # EC2 화면 포트
